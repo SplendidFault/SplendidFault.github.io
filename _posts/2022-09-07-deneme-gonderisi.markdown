@@ -12,7 +12,7 @@ Bu bir _deneme_ gönderisidir. [GitHub Pages](https://pages.github.com) ile nele
 * Kahvaltı
 * Öğle yemeği
 * Akşam yemeği
---------------------
+
 Mehmet Akif Ersoy, _İstiklal Marşı_ isimli eserinde der ki:
 > Korkma sönmez bu şafaklarda yüzen al sancak
 > Sönmeden yurdumun üstünde tüten en son ocak
